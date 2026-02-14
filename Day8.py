@@ -13,7 +13,7 @@ If validation fails, return proper HTTP status codes.
 Store users in memory using a class (like your ToDo example).
 Do NOT return the password in responses.
 
-What I’ll check: request body validation, clean error handling, and response safety.
+What I'll check: request body validation, clean error handling, and response safety.
 """
 
 
